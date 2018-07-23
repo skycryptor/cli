@@ -1,0 +1,20 @@
+passwords.ini
+*.swp
+*.pyc
+*.egg
+*.egg-info
+dist
+build
+buildenv
+.idea
+.coverage
+node_modules
+bower_components
+django-tastypie
+migrations
+# temporary ifnore client dir content
+clients
+
+# Ignore SASS caches
+.sass-cache
+
